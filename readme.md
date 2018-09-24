@@ -12,6 +12,7 @@ I used recursion to walk throught the grid array due to its the simplest way to 
 I also submit the first solution, done with functions, that helped me to code the silhouet class. It was my lab.
 
 To run it just put the index.php and Silhouete.php files with the case file (the grid file) and run:
+
 ```php -f index *grid_file_name* -d (opitional, for debuging)```
 
 This command will generate an result file called result_grid_file_name.
