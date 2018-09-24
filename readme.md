@@ -17,6 +17,6 @@ To run it just put the index.php and Silhouete.php files with the case file (the
 
 This command will generate an result file called result_grid_file_name.
 
-Thank you for your attention.
-My best regards,
+Thank you for your attention.  
+My best regards,  
 Leonardo.
