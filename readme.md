@@ -1,4 +1,4 @@
-#Silhouete Fullfilment Chalenge.
+# Silhouete Fullfilment Chalenge.
 
 To run this solution, put index.php and Silhouete.php in same directory as the case files.
 The case file was specified in the challenge.
